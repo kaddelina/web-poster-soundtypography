@@ -1,0 +1,110 @@
+
+@media only screen and (min-width: 1920px) {
+
+}
+  
+@media only screen and (min-device-width: 1440px) and (max-device-width: 1919px) {
+  .woman {
+    margin-top: 25.1vw;
+}
+}
+
+@media only screen and (min-device-width: 1366px) and (max-device-width: 1439px) {
+  .woman {
+    margin-top: 25.2vw;
+}
+}
+
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1365px){
+  .woman {
+    margin-top: 25.3vw;
+}
+}
+
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1023px) {
+  .woman {
+    margin-top: 25.5vw;
+}
+ }
+  
+  @media only screen and (min-device-width: 414px) and (max-device-width: 767px){
+    .woman {
+      margin-top: 25.8vw;
+  }
+}
+
+  
+  @media only screen and (min-device-width: 360px) and (max-device-width: 413px) {
+    /* измененный под мобильное устройство макет */
+   .woman {
+    margin-left: 66.5%;
+    margin-top: 37.5vw;
+    height: 37.5vw;
+    width: 33%;
+  }
+
+  .printer {
+    display: none;
+  }
+
+  .lines{
+    height: 75vw;
+    margin-top: 38%;
+    width: 33%;
+  }
+
+.letter_r {
+  display: none;
+}
+
+.letteranimation_r {
+  display: block;
+  margin-top: -150%;
+  margin-left: 6%;
+}
+
+.letteranimation_a {
+  display: block;
+  margin-top: -22%;
+  margin-left: 75%;
+}
+
+.rythmbox {
+  width: 66.2%;
+  height: 75vw;
+  margin-top: 93%;
+}
+
+.colored{
+  height: 37.5vw;
+  margin-top: -99%;
+}
+
+.colored1{
+  height: 37.5vw;
+}
+
+.guitar {
+    display: none;
+}
+
+.letteranimation_o {
+  margin-left: 10%;
+  margin-top: -75%;
+}
+
+.blindspot {
+  font-size: 4vw; 
+}
+
+.blindspot:hover {
+      filter: blur(12px);
+    }
+
+td:nth-last-child(-n+2) {
+    display: none;
+  }
+
+  }
+  
